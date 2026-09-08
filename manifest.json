@@ -1,0 +1,29 @@
+{
+  "id": "QUEST_GEN1_IMPORTER",
+  "name": "Pokemon Quest Gen 1 Importer",
+  "version": "0.6.7",
+  "api": 2,
+  "entry": "main.lua",
+  "profile": "content",
+  "category": "GRAPHICS",
+  "game_version": "0.0.0-dev || >=0.1.86 <2.0.0",
+  "priority": 126,
+  "dependencies": [
+    "RUMBLE_MAIN@>=1.0.0 <2.0.0"
+  ],
+  "optional_dependencies": [
+    "DRAMALESS_SHAPE@>=2.0.4 <3.0.0",
+    "potato_voxel@>=1.8.2 <3.0.0"
+  ],
+  "conflicts": [],
+  "permissions": [
+    "engine_internals"
+  ],
+  "affects_link": false,
+  "experimental": false,
+  "description": "Pokemon Quest-style Gen1 3D models for Pokemon Red and Blue. Toon rendering follows Rumble Unified's Toon Outline setting.",
+  "games": [
+    "red",
+    "blue"
+  ]
+}

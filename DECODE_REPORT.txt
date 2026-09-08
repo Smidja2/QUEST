@@ -1,0 +1,18 @@
+Pokemon Quest Gen 1 decode report
+=================================
+Successful normal-species meshes: 151/151
+Failed species: 0
+Species containing at least one mixed vertex-color triangle: 9
+
+Mixed-color species (rendered with the same flat-color compatibility path):
+Dex #018: 22 mixed triangles
+Dex #051: 261 mixed triangles
+Dex #055: 2 mixed triangles
+Dex #059: 4 mixed triangles
+Dex #087: 3 mixed triangles
+Dex #111: 4 mixed triangles
+Dex #116: 13 mixed triangles
+Dex #122: 2 mixed triangles
+Dex #126: 2 mixed triangles
+
+All other generated meshes had zero mixed-color triangles.
